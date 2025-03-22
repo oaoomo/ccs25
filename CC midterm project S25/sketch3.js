@@ -33,12 +33,12 @@ class MemoryFragment {
     this.y = y;
     this.alpha = random(150, 255);
     this.text = random([
-      "A distant voice...",
-      "A place once known...",
-      "A face, now blurred...",
-      "The laughter fades...",
-      "Did it really happen?",
-      "Just a dream..."
+      "“He's more myself than I am. Whatever our souls are made of, his and mine are the same.” ",
+      "“If all else perished, and he remained, I should still continue to be; and if all else remained, and he were annihilated, the universe would turn to a mighty stranger.” ",
+      "“You said I killed you-haunt me, then! Be with me always-take any form-drive me mad! only do not leave me in this abyss, where I cannot find you!",
+      "I lingered round them, under that benign sky; watched the moths fluttering among the heath and hare-bells; listened to the soft wind breathing through the grass; and wondered how anyone could ever imagine unquiet slumbers for the sleepers in that quiet earth.",
+      "I hate him for himself, but despise him for the memories he revives",
+      "The entire world is a collection of memoranda that she did exist, and that I have lost her."
     ]);
     this.size = random(16, 32);
     this.fadingSpeed = random(0.5, 2);
